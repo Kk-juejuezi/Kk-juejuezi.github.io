@@ -429,7 +429,7 @@ sup > a::before,
   .navbar .dropdown-collapse,
   .top-nav-collapse,
   .navbar-col-show {
-    background: rgba(216,230,231,0.7);
+    background: rgba(110,119,131,0.7);
     -webkit-backdrop-filter: blur(3px);
     backdrop-filter: blur(3px);
   }
@@ -438,7 +438,7 @@ sup > a::before,
   .navbar .dropdown-collapse,
   .top-nav-collapse,
   .navbar-col-show {
-    background: #d8e6e7;
+    background: #6e7783;
   }
 }
 @media (max-width: 767px) {
@@ -848,9 +848,9 @@ i.iconfont {
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #f8f9fa;
   --line-color: #eaecef;
-  --navbar-bg-color: #D8E6E7;
-  --navbar-text-color: #9DC3C1;
-  --subtitle-color: #D1B6E1;
+  --navbar-bg-color: #6E7783;
+  --navbar-text-color: #58C9B9;
+  --subtitle-color: #9055A2;
   --scrollbar-color: #c4c6c9;
   --scrollbar-hover-color: #a6a6a6;
   --button-bg-color: transparent;
@@ -874,7 +874,7 @@ i.iconfont {
     --link-hover-bg-color: #364151;
     --line-color: #435266;
     --navbar-bg-color: #6E7783;
-    --navbar-text-color: #77AAAD;
+    --navbar-text-color: #519D9E;
     --subtitle-color: #A593E0;
     --scrollbar-color: #687582;
     --scrollbar-hover-color: #9da8b3;
@@ -925,7 +925,7 @@ i.iconfont {
   --link-hover-bg-color: #364151;
   --line-color: #435266;
   --navbar-bg-color: #6E7783;
-  --navbar-text-color: #77AAAD;
+  --navbar-text-color: #519D9E;
   --subtitle-color: #A593E0;
   --scrollbar-color: #687582;
   --scrollbar-hover-color: #9da8b3;
